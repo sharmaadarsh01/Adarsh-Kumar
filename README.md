@@ -53,7 +53,7 @@ Problem Solving
 Manual Testing
 
 🧑‍💻 Professional Experience
-Software Development Intern — KodNest Technologies (Jan ’23 – Mar ’23)
+Software Development Intern — KodNest Technologies 
 
 Worked with Java, MySQL, Frontend Technologies, and Manual Testing
 
